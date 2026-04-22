@@ -1,0 +1,20 @@
+# VerifyOrder
+
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**merchant_unique_id** | **string** | شناسه منحصر به فرد ارسال شده هنگام ایجاد سفارش برای تأیید اصالت سفارش | [default to undefined]
+
+## Example
+
+```typescript
+import { VerifyOrder } from './api';
+
+const instance: VerifyOrder = {
+    merchant_unique_id,
+};
+```
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
