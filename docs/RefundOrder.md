@@ -6,7 +6,7 @@ Serializer for refunding an order.
 
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**reason** | **string** | دلیل اختیاری برای بازگرداندن وجه | [optional] [default to undefined]
+**reason** | **string** | Optional reason for the refund | [optional] [default to undefined]
 
 ## Example
 

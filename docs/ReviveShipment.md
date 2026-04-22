@@ -5,7 +5,7 @@
 
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**preparation_time** | **number** | زمان آمادهسازی سفارش (به روز) | [optional] [default to undefined]
+**preparation_time** | **number** | The preparation time for the order in days. | [optional] [default to undefined]
 
 ## Example
 

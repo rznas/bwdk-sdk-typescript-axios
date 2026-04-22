@@ -7,7 +7,6 @@ common.ts
 configuration.ts
 docs/AuthStatusResponse.md
 docs/BusinessAddress.md
-docs/DefaultApi.md
 docs/DeliveryTimeRangeDisplay.md
 docs/ErrorEnum.md
 docs/GatewayTypeEnum.md
@@ -15,7 +14,9 @@ docs/Merchant.md
 docs/MerchantOrderCancelShipmentResponse.md
 docs/MerchantOrderRefundResponse.md
 docs/MerchantOrderReviveShipmentResponse.md
+docs/MerchantOrdersApi.md
 docs/MerchantPaidOrderList.md
+docs/MerchantWalletApi.md
 docs/NullEnum.md
 docs/Option.md
 docs/OrderCreate.md
@@ -23,6 +24,7 @@ docs/OrderCreateResponse.md
 docs/OrderDetail.md
 docs/OrderError.md
 docs/OrderItemCreate.md
+docs/OrderShippingApi.md
 docs/OrderStatusEnum.md
 docs/OrderUser.md
 docs/Packing.md
@@ -31,6 +33,7 @@ docs/PaginatedOrderDetailList.md
 docs/PaymentOrder.md
 docs/RefundOrder.md
 docs/ReviveShipment.md
+docs/SellerProfileManagementApi.md
 docs/ShippingMethod.md
 docs/ShippingTypeEnum.md
 docs/TypeNameEnum.md

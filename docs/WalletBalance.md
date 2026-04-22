@@ -5,8 +5,8 @@
 
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**amount** | **number** | موجودی کیف پول فعلی (برحسب تومان) | [optional] [default to undefined]
-**negative_settlement_deadline** | **string** | مهلت تسویه تراز منفی | [readonly] [default to undefined]
+**amount** | **number** | Current wallet balance in Tomans | [optional] [default to undefined]
+**negative_settlement_deadline** | **string** | Deadline for settling negative balance | [readonly] [default to undefined]
 
 ## Example
 

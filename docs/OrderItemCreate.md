@@ -13,8 +13,8 @@ Name | Type | Description | Notes
 **tax_amount** | **number** | مبلغ کل مالیات برای این کالا (به تومان) | [optional] [default to undefined]
 **image_link** | **string** | آدرس تصویر محصول | [optional] [default to undefined]
 **_options** | [**Array&lt;Option&gt;**](Option.md) |  | [default to undefined]
-**preparation_time** | **number** | زمان آمادهسازی کالا (به روز) | [optional] [default to 2]
-**weight** | **number** | وزن کالا (بر حسب گرم) | [optional] [default to undefined]
+**preparation_time** | **number** | Preparation time for the item (in days) | [optional] [default to 2]
+**weight** | **number** | Weight of the item (in grams) | [optional] [default to undefined]
 
 ## Example
 

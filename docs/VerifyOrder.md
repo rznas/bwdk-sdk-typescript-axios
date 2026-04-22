@@ -5,7 +5,7 @@
 
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**merchant_unique_id** | **string** | شناسه منحصر به فرد ارسال شده هنگام ایجاد سفارش برای تأیید اصالت سفارش | [default to undefined]
+**merchant_unique_id** | **string** | شناسه منحصر به فرد ارسال شده هنگام ساخت سفارش برای تأیید اصالت سفارش | [default to undefined]
 
 ## Example
 

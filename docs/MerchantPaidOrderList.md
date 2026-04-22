@@ -8,7 +8,7 @@ Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
 **order_uuid** | **string** |  | [readonly] [default to undefined]
 **merchant_order_id** | **string** | شناسه منحصر به فرد سفارش در سیستم فروشنده | [readonly] [default to undefined]
-**merchant_unique_id** | **string** | شناسه منحصر به فرد برای پذیرنده برای تأیید سفارش | [readonly] [default to undefined]
+**merchant_unique_id** | **string** | شناسه منحصر به فرد فروشنده برای تأیید سفارش | [readonly] [default to undefined]
 **paid_at** | **string** |  | [readonly] [default to undefined]
 **refunds_at** | **string** |  | [readonly] [default to undefined]
 
